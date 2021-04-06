@@ -1,5 +1,8 @@
 # Mayomayo-kun
 
-####My themed page
+#### My themed page
 
-A page about STORYIES
+A page about Games
+
+## Teacher; techno274721
+## Student; Lotusninja400
